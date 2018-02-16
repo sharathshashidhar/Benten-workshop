@@ -1,0 +1,8 @@
+{
+  "apiai" :{
+    "token" : "your api.ai token"
+  },
+  "slackBot":{
+    "token" : "your slack bot token"
+  }
+}
